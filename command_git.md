@@ -19,3 +19,5 @@
 ![картинка леса](https://upload.wikimedia.org/wikipedia/commons/4/4c/A_deciduous_beech_forest_in_Slovenia.jpg)
 
 *Стремитесь не к успеху, а к ценностям, которые он дает*
+
+[cсылка на сайт с цитатами](https://www.forbes.ru/forbeslife/dosug/262327-na-vse-vremena-100-vdokhnovlyayushchikh-tsitat)
