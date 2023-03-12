@@ -21,3 +21,7 @@
 *Стремитесь не к успеху, а к ценностям, которые он дает*
 
 [cсылка на сайт с цитатами](https://www.forbes.ru/forbeslife/dosug/262327-na-vse-vremena-100-vdokhnovlyayushchikh-tsitat)
+
+
+**git branch [название ветки]** - создание новой ветки
+
