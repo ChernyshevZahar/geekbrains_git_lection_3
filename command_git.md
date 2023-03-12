@@ -23,4 +23,4 @@
 [cсылка на сайт с цитатами](https://www.forbes.ru/forbeslife/dosug/262327-na-vse-vremena-100-vdokhnovlyayushchikh-tsitat)
 
 
-text
+**git checkout -b [название ветки]** - создание и переход на ветку
